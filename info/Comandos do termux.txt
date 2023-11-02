@@ -1,0 +1,20 @@
+
+1° pkg upgrade -y && pkg update -y && pkg install git -y && pkg install nodejs -y && pkg install nodejs-lts -y
+ 
+2° termux-setup-storage
+
+3° cd /sdcard/UZUMAKI-BOT
+ 
+4° pkg install ffmpeg -y && pkg install tesseract -y && pkg install python -y 
+
+5° pkg install ffmpeg -y && pkg install wget -y
+
+6° pkg install figlet
+
+7° sh start.sh
+
+
+
+
+
+
