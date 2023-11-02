@@ -29,6 +29,10 @@ git clone https://github.com/BLSFAFSJD/UZUMAKI-V2
 ```
 cd /sdcard/UZUMAKI-V2
 ```
+**6 comando**
+```
+sh start.sh
+```
 ### Agradecimentos
 
 Obrigado por visitar meu perfil!
