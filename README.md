@@ -32,7 +32,3 @@ cd /sdcard/UZUMAKI-V2
 ### Agradecimentos
 
 Obrigado por visitar meu perfil!
-**💮4° Comando✓**
-```
-https://github.com/BLSFAFSJD/UZUMAKI-V2;
-```
